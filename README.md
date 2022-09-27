@@ -1,1 +1,2 @@
-# Practice_algo
+# algo_prac
+algorithm test practice
